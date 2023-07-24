@@ -10,14 +10,15 @@
 
 This is the official website of the Debating Society of BITEC Lalpur, Mesra. 👨‍🎓 👩‍🎓
 
-Debating society was founded by the students of Birla Institute of Technology , Lalpur in the year 2000. 
-It primarily focuses on promoting the student activities in the institute alongwith helping them to develop the soft skills required to build a better future. 
+Debating Society was founded by the students of Birla Institute of Technology, Lalpur in the year 2000. 
+It primarily focuses on promoting the institute's student activities and helping them develop the soft skills required to build a better future. 
 
-It also has an organization here in github which hosts the collection of fundamental and important repositories for students to help them in building them their software developer journey.
+It also has an organization here in GitHub which hosts the collection of fundamental and important repositories for students to help them build their software developer journey.
 
 ## License
 
-This project follows MIT [License](https://github.com/roushanverma23/Debsoc-2021/blob/master/LICENSE)
+This project follows MIT [License](https://github.com/roushanverma23/Debsoc-2021/blob/main/LICENSE)
+
 
 ---
 
