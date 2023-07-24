@@ -1,7 +1,7 @@
 # Debsoc-2021
 
 <p align="center">
-<img src="https://github.com/roushanverma23/Debsoc-2021/assets/img/ico/w_logo.png" width="250" height="250">
+<img src="https://github.com/roushanverma23/Debsoc-2021/blob/main/assets/img/ico/w_logo.png" width="250" height="250">
 </p>
 
 # DebSoc - Break Out of Your Shell ❤
