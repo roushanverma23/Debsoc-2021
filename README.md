@@ -22,4 +22,4 @@ This project follows MIT [License](https://github.com/roushanverma23/Debsoc-2021
 
 ---
 
-[Visit Website](https://www.debsoc.in "Debating Society") |  [Github Organization Link](https://github.com/DebSoc "GitHub")
+[Visit Website](https://www.debsoc.co.in "Debating Society") |  [Github Organization Link](https://github.com/DebSoc "GitHub")
